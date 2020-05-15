@@ -7,21 +7,21 @@ Matriculated from Sutherland Highschool
 BSc Computer Science at University of Pretoria
 
 ## Work Experience
-Company		:	Le Petit Pain (PTY) LTD
+Company		:	Le Petit Pain (PTY) LTD <br>
 Job Description	:	Co-ordinating Archive and Filing Clerk
 
-Company		:	Game Smart
+Company		:	Game Smart <br>
 Job Description	:	Computer fault analysis and Hardware assembly
 
-Tutoring:
-Subjects		:  	Gr9, Gr6 Maths 
-				Gr6 Natural Science, English
+Tutoring:<br>
+Subjects		:  	Gr9, Gr6 Maths <br>
+				Gr6 Natural Science, English<br>
 				Gr12 Accounting
 
-SA Golf Open:
+SA Golf Open:<br>
 Job Description 	: 	Ticket Sales and VIP administration 
 
-Joburg Open:
+Joburg Open:<br>
 Job Description 	: 	Ticket Sales 
 
 
