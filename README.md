@@ -8,36 +8,22 @@ BSc Computer Science at University of Pretoria
 
 ## Work Experience
 Company		:	Le Petit Pain (PTY) LTD\
-Duration		:	2012/2013 School Holidays\
-Job Description	:	Co-ordinating Archive and Filing Clerk\
-Reference		:	N Moonsamy (HR and Financial Supervisor)\
-Contact Details	:	(011) 466 2523 
+Job Description	:	Co-ordinating Archive and Filing Clerk
 
 Company		:	Game Smart\
-Duration		:	2014 to 2016 (Holidays)\
-Job Description	:	Computer fault analysis and Hardware assembly\
-Reference		:	Chris von Maltitz\
-Contact Details	:	083 326 5017
-
+Job Description	:	Computer fault analysis and Hardware assembly
 
 Tutoring:\
-Duration		: 	2017 – Current\
 Subjects		:  	Gr9, Gr6 Maths \
 				Gr6 Natural Science, English\
 				Gr12 Accounting
 
 SA Golf Open:\
-Duration		:	2015-2017\
-Job Description 	: 	Ticket Sales and VIP administration \
-Reference		: 	Mala Pavaday\
-Contact Details 	:	083 289 5176
-
+Job Description 	: 	Ticket Sales and VIP administration 
 
 Joburg Open:\
-Duration		:	2015\
-Job Description 	: 	Ticket Sales \
-Reference		: 	Mala Pavaday\
-Contact Details 	:	083 289 5176
+Job Description 	: 	Ticket Sales 
+
 
 
 ## Skills
