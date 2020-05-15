@@ -7,11 +7,11 @@ Matriculated from Sutherland Highschool
 BSc Computer Science at University of Pretoria
 
 ## Work Experience
-Company		:	Le Petit Pain (PTY) LTD
-Duration		:	2012/2013 School Holidays
-Job Description	:	Co-ordinating Archive and Filing Clerk
-Reference		:	N Moonsamy (HR and Financial Supervisor)
-Contact Details	:	(011) 466 2523 
+Company		:	Le Petit Pain (PTY) LTD\
+Duration		:	2012/2013 School Holidays\
+Job Description	:	Co-ordinating Archive and Filing Clerk\
+Reference		:	N Moonsamy (HR and Financial Supervisor)\
+Contact Details	:	(011) 466 2523 \
 
 Company		:	Game Smart
 Duration		:	2014 to 2016 (Holidays)
